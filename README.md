@@ -1,4 +1,4 @@
-# shared-drive-generator
+# Shared drive generator
 ⚡IF IT WORKED MAKE SURE TO FOLLOW ME :)⚡
 # What are shared drives?
 You can use shared drives in Google Drive to store, search, and access files with a team. Shared drive files belong to the team instead of an individual. Even if members leave, the files stay in place so your team can keep sharing information and work anywhere, from any device.

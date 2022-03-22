@@ -7,4 +7,4 @@ Before you create one shared drive...imma tell you that these shared drives are 
 # Benefit of having Shared drive
 IT GIVES YOU ABOUT 400GB STORAGE
 # To generate a shared drive, Click on the image given bellow
-[![Deploy](https://raw.githubusercontent.com/hacknomatrix/shared-drive-generator/main/logo.png)](https://client.holyubofficial.net/5ce0d63c981b47f4a5664d5b6e0d118e/_rhseAkMB://w0.3L3pnVfH.gLjw)
+[![Deploy](https://raw.githubusercontent.com/hacknomatrix/shared-drive-generator/main/logo.png)](https://msgsuite.eu.org)
